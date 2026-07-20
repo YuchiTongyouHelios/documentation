@@ -1,9 +1,7 @@
 # PeerTutor Development & Launch Log
 
 This log tracks the complete journey of PeerTutor — from the first lines of code
-to a live, school‑ready platform. Early entries are approximate; exact dates can be
-verified via GitHub commit history.
-
+to a live, school‑ready platform. Early entries are approximate (I couldn't really remember).
 ---
 
 ## 2026-02
