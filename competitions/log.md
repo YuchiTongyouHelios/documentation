@@ -18,3 +18,7 @@
   - Ms. Wong agreed to be nominated teacher (yay!)
 .
   - Confirmation email received (screenshot in this folder).
+
+
+## 2026-07-20
+- Locked in with my friend Andrew to join some tech related competitions.
