@@ -40,6 +40,7 @@ to a live, school‑ready platform. Early entries are approximate (I couldn't re
 - **16 July:** Finalised launch plan: target pilot with 10–20 students in September.
 - **17 July:** Set up this documentation repository to track future user numbers, testimonials, and iterations.
 - Entered multiple international competitions with PeerTutor (see Competitions log):
+- **4 August:** recieved email from Dean Wong and scheduled meeting on Sep 2 regarding Peertutor.
 
 
 *Next milestone: Pilot launch at DBS in September 2026.*
