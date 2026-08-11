@@ -64,3 +64,26 @@ This log tracks my research using data from my app Peertutor
 ### Thoughts
 - right now maybe I'm overthinking but I'm worried that my topic might be maybe not standing out, maybe already researched before.
 - I'll do some research first (no pun intended) 
+
+
+## 2026-08-12
+
+### Codebase Learning (Self-Assessment)
+
+**Where I'm at:**
+- Realized I can't explain my own system architecture without AI
+- Can't add a new feature without AI
+- Can't explain my security rules
+- Can't debug my own app
+- Genuinely worried and scared, so I'll learn from scratch.  
+
+**What I'm doing about it:**
+- Going through every file in my project to understand what it does
+- Starting with App.js, firebase.js, AuthContext.js, and firestore.rules
+- Writing down what each file does in plain English
+- No AI for coding until I understand my entire codebase
+
+**Why this matters:**
+- ISEF judges will ask me how my app works
+- I need to be able to answer without AI
+- I can't run a pilot study if I can't debug problems
