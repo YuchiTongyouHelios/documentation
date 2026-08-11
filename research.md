@@ -60,3 +60,7 @@ This log tracks my research using data from my app Peertutor
 - Began documenting AI use for research plan refinement in a separate AI log.
 - Realized my GitHub repo already serves as a logbook (timestamps, screenshots, chronological entries).
 - Started the AI prompt log for research-related AI use.
+
+### Thoughts
+- right now maybe I'm overthinking but I'm worried that my topic might be maybe not standing out, maybe already researched before.
+- I'll do some research first (no pun intended) 
