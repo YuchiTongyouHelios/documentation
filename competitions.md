@@ -22,3 +22,7 @@
 
 ## 2026-07-20
 - Locked in with my friend Andrew to join some tech related competitions.
+
+## 2026-08-11
+- I decided to join HKYSTIC, as the Regional ISEF HK timeline is too tight for me. I believe that I can also make ISEF with HKYSTIC (according to google).
+- More details in research.md 
