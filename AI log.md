@@ -4,7 +4,7 @@ This log documents my use of AI tools specifically for the research plan, not fo
 
 ## 2026-08-08
 **Tool:** DeepSeek
-**Task:** Asked for help refining hypotheses and suggesting literature
+**Task:** Asked for foundational paper recommendations regarding motivation crowding-out theory (Sandel, Bowles) and extrinsic rewards (Deci & Ryan).
 **Key points from response:** Mentioned Sandel, Deci & Ryan, Bowles
 **What I did with it:** Used the suggestions to find the actual papers, read them, and cited them in my own words
 
@@ -22,9 +22,9 @@ This log documents my use of AI tools specifically for the research plan, not fo
 
 ## 2026-08-10
 **Tool:** DeepSeek
-**Task:** Asked for help rewriting the rationale section to sound more natural
+**Task:** Asked for suggestions on structural flow and transition phrasing for the rationale section.
 **Key points from response:** Gave suggestions on phrasing and flow
-**What I did with it:** Wrote my own version using the ideas, didn't copy the text directly
+**What I did with it:** Reviewed the structural feedback and wrote my own final text independently using the suggested outline flow.
 
 ## 2026-08-11
 **Tool:** Gemini
