@@ -87,3 +87,19 @@ This log tracks my research using data from my app Peertutor
 - ISEF judges will ask me how my app works
 - I need to be able to answer without AI
 - I can't run a pilot study if I can't debug problems
+
+### Update
+
+**Following Kimi's 7-day survival plan:**
+
+Test 5 core features (login, post request, view feed, offer help, timestamps)
+Map my database (Firestore collections, documents, fields)
+Fix or workaround the points toggle (using manual announcements)
+Test data export (Firestore → Google Sheets)
+Simplify micro-survey (Google Form instead of in-app)
+End-to-end test with fake accounts
+
+**I realized** I have ~8 weeks until the pilot study, and I can't afford to spend that time learning React from scratch, so I need a working study, not a perfect app
+
+### Silence 
+I might be very quiet these at least a week, cause I gotta start learning.
