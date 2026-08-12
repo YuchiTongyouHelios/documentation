@@ -32,6 +32,12 @@ This log documents my use of AI tools specifically for the research plan, not fo
 **Key points from response:** Confirmed Form 2A is required for 2026-2027 cycle
 **What I did with it:** Added Form 2A to my to-do list, started filling it out
 
+## 2026-08-12
+**Tool:** Kimi
+**Task:** Asked for a practical plan to get the app ready for the pilot study
+**Key points from response:** Gave a 7-day survival plan focused on running the study, not learning to code
+**What I did with it:** Decided to follow it
+
 ---
 
 ## Summary
