@@ -103,3 +103,6 @@ End-to-end test with fake accounts
 
 ### Silence 
 I might be very quiet these at least a week, cause I gotta start learning.
+
+## 2026-08-23
+Day 2 of learning
