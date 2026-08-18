@@ -26,3 +26,6 @@
 ## 2026-08-11
 - I decided to join HKYSTIC, as the Regional ISEF HK timeline is too tight for me. I believe that I can also make ISEF with HKYSTIC (according to google).
 - More details in research.md 
+
+## 2026-08-18
+-Submitted LSE Generate Innovation Challenge (LGIC) – Regional Round. <img width="879" height="167" alt="Screenshot 2026-08-18 at 10 03 43 PM" src="https://github.com/user-attachments/assets/a3fc7eb3-302b-43f3-8a62-ecbaa1cf1bc8" />
