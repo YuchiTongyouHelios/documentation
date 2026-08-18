@@ -104,5 +104,8 @@ End-to-end test with fake accounts
 ### Silence 
 I might be very quiet these at least a week, cause I gotta start learning.
 
-## 2026-08-23
+## 2026-08-13
 Day 2 of learning
+
+## 2026-08-18
+Since last friday, I did like sports and also set up an API that is pretty much a AI agent but free, I haven't tested but is testing now.
