@@ -45,6 +45,8 @@ to a live, school‑ready platform. Early entries are approximate (I couldn't re
 - **4 August:** recieved email from Dean Wong and scheduled meeting on Sep 2 regarding Peertutor.
 - Began drafting a formal research plan to study how PeerTutor’s design features (points, urgent flag, etc.) influence student help‑seeking and helping behaviour at DBS.
 - Decided to pursue a school‑approved, IRB‑reviewed pilot study with proper parental consent and student assent. (turns out IRB is so confusing :-: might take a long time wish me luck on figuring it out)
+- **18 August** so after like 5 days I set up an API that is pretty much a AI agent but free
+- haven't tested but is testing now.
 
 
 *Next milestone: Pilot launch at DBS in September 2026.*
