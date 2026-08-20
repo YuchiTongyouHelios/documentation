@@ -46,6 +46,11 @@ to a live, school‑ready platform. Early entries are approximate (I couldn't re
 - Began drafting a formal research plan to study how PeerTutor’s design features (points, urgent flag, etc.) influence student help‑seeking and helping behaviour at DBS.
 - Decided to pursue a school‑approved, IRB‑reviewed pilot study with proper parental consent and student assent. (turns out IRB is so confusing :-: might take a long time wish me luck on figuring it out)
 - **18 August** so after like 5 days I set up an API that is pretty much a AI agent but free
+- **21 August** ok so after 3 days of wrestling with the API I gave up, as even tho I got it set up the results were basically the same as a normal AI
+- ## 2026-08-21
+- BTW, going on a trip so no updates for abt 1.5 week :)
+- Feeling unproductive but accepting that I moved forward in other ways.
+- Next step when back: add questionnaire, test offer flow, update logbook.
 - haven't tested but is testing now.
 
 
