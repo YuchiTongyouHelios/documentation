@@ -52,6 +52,19 @@ to a live, school‑ready platform. Early entries are approximate (I couldn't re
 - Feeling unproductive but accepting that I moved forward in other ways.
 - Next step when back: add questionnaire, test offer flow, update logbook.
 - haven't tested but is testing now.
+  - 2026-08-29: Back from trip. Feeling unproductive but accepting progress.
+- Began testing offer flow and app functionality.
+
+## 2026-09
+- 2026-09-02: Met with Dean Wong. She gave feedback: topic may be too niche, need stronger market case, need harder competitions.
+- Emailed Dean Ghafur about launching PeerTutor at DBS.
+- 2026-09-07: Dean Ghafur repliedand invited me to come at recess.
+- 2026-09-(09-14): Tried to find Dean Ghafur. Had trouble.
+- 2026-09-15: Met Dean Ghafur by accident. She mentioned Learners Fraternity and suggested I talk to IT teachers. Scheduled meeting for Oct 5.
+- 2026-09-24: Didn't find any teachers this week. Avoided it due to fear.
+
+
+
 
 
 *Next milestone: Pilot launch at DBS in September 2026.*
